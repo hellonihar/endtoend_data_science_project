@@ -1,4 +1,8 @@
 numpy
 pandas
-
--e .
+openpyxl
+mysql.connector-python
+pymysql
+python-dotenv
+scikit-learn
+##-e .
